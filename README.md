@@ -82,13 +82,11 @@ endmodule
 ```
  Developed by: VIGNESH J RegisterNumber: 212225230297
  
-**Logic symbol & Truthtable**
+**Logic symbol & Truthtable:**
 <img width="358" height="674" alt="image" src="https://github.com/user-attachments/assets/6251d7a6-a1e4-423e-9465-7f928fbf4de7" />
-
 
 **RTL realization Output:**
 <img width="891" height="713" alt="Screenshot 2026-03-12 213812" src="https://github.com/user-attachments/assets/632d939b-e90c-40dd-89bc-4565553ea7c7" />
-
 
 **RTL**
 <img width="1322" height="764" alt="Screenshot 2026-03-12 215854" src="https://github.com/user-attachments/assets/877a9b53-70c8-4cb8-a9cd-7077b2c36e98" />
