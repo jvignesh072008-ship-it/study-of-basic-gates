@@ -78,7 +78,8 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: JONATHAN SAMRAJ A RegisterNumber: 25013505
+ Developed by: VIGNESH J
+ RegisterNumber: 212225230297
  
 **Logic symbol & Truthtable**
 ![DE 1](https://github.com/user-attachments/assets/46fa07fb-03af-42f4-be76-ee3d5ffbe3d8)
