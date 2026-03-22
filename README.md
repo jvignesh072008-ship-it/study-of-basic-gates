@@ -83,13 +83,13 @@ endmodule
  Developed by: VIGNESH J RegisterNumber: 212225230297
  
 **Logic symbol & Truthtable:**
-<img width="358" height="674" alt="image" src="https://github.com/user-attachments/assets/6251d7a6-a1e4-423e-9465-7f928fbf4de7" />
+<img width="1006" height="591" alt="AdobeExpressPhotos_4669167c32a643b5814669295e2fec3d_CopyEdited" src="https://github.com/user-attachments/assets/51c7c14a-3480-496d-840e-db53be43162e" />
 
 **RTL realization Output:**
 <img width="891" height="713" alt="Screenshot 2026-03-12 213812" src="https://github.com/user-attachments/assets/632d939b-e90c-40dd-89bc-4565553ea7c7" />
 
 **RTL**
-<img width="1322" height="764" alt="Screenshot 2026-03-12 215854" src="https://github.com/user-attachments/assets/877a9b53-70c8-4cb8-a9cd-7077b2c36e98" />
+<img width="1907" height="921" alt="Screenshot 2026-02-09 144556" src="https://github.com/user-attachments/assets/07f04f45-691d-4adf-971f-7fec793afc98" />
 
 **Result:**
 The Truth table of logic gates in Quartus II using Verilog programming is verified.
